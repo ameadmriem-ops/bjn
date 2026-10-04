@@ -1,0 +1,6 @@
+{
+  "name": "Trusted Search",
+  "description": "تطبيق بحث موثوق يجيب عن الأسئلة بالبحث المباشر في المصادر الموثوقة ومقارنتها بخوارزميات برمجية دقيقة بدون ذكاء اصطناعي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
